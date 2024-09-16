@@ -4,6 +4,9 @@
 This project is a solution to calculate the constant term \( c \) in a polynomial using a matrix-based method (Gaussian elimination).
 
 ## Steps to Run
+## Prerequisites
+Node.js - JavaScript runtime for executing the code.
+Download and install Node.js from here.
 
 1. **Clone the repository**:
    ```bash
