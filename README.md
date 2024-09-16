@@ -6,7 +6,7 @@ This project is a solution to calculate the constant term \( c \) in a polynomia
 ## Steps to Run
 ## Prerequisites
 Node.js - JavaScript runtime for executing the code.
-Download and install Node.js from here.
+Download and install Node.js from [here](https://nodejs.org/en)
 
 1. **Clone the repository**:
    ```bash
