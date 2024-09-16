@@ -1,8 +1,3 @@
-# Catalog_Hackethon
-
-Here are the steps you can add to the `README.md` file in your repository to run the `gauss.js` code:
-
----
 
 # Catalog Hackathon - Gauss Algorithm
 
