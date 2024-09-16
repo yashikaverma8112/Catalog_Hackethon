@@ -1,7 +1,7 @@
 
 # Catalog Hackathon - Gauss Algorithm
 
-This project is a solution to calculate the constant term \( c \) in a polynomial using a matrix-based method (Gaussian elimination).
+This project is a solution to calculate the constant term \( c \) in a polynomial using a Guass-based method (Gaussian elimination).
 
 ## Steps to Run
 ## Prerequisites
@@ -31,4 +31,3 @@ Download and install Node.js from [here](https://nodejs.org/en)
 
 ---
 
-This will guide users to clone and run the project successfully.
